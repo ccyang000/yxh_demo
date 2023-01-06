@@ -2,7 +2,7 @@ import pandas as pd
 
 
 sxt_path = 'D:\\Python_test\\'
-sxt = pd.read_excel(sxt_path + '净值序列.xlsx', index_col=0)
+sxt = pd.read_excel(sxt_path + '净值序列(1).xlsx', index_col=0)
 
 # print(sxt)
 
